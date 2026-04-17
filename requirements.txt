@@ -1,0 +1,7 @@
+pandas==2.3.3
+numpy>=2.0
+matplotlib>=3.9
+seaborn>=0.13
+plotly>=5.22
+streamlit>=1.35
+openpyxl>=3.1
