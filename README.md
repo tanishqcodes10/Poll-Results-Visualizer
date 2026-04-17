@@ -70,3 +70,17 @@ streamlit run app_dashboard.py
 - [ ] Power BI `.pbix` export template
 
 ---
+## 👨‍💻 Author
+
+  Tanishq Jakate
+- 🌐 GitHub: [tanishqcodes10]()
+- 💼 LinkedIn: (www.linkedin.com/in/tanishq-jakate-93617a402)
+
+
+***
+
+<div align="center">
+
+**⭐ Star this repo if it helped you! It motivates me to build more projects.**
+
+
