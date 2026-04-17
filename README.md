@@ -69,7 +69,7 @@ streamlit run app_dashboard.py
 - [ ] PDF report auto-generation
 - [ ] Power BI `.pbix` export template
 
----
+```
 ## 👨‍💻 Author
 
   Tanishq Jakate
@@ -77,9 +77,9 @@ streamlit run app_dashboard.py
 - 💼 LinkedIn: (www.linkedin.com/in/tanishq-jakate-93617a402)
 
 
-***
 
-<div align="center">
+
+
 
 **⭐ Star this repo if it helped you! It motivates me to build more projects.**
 
