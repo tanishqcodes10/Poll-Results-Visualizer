@@ -1,0 +1,501 @@
+respondent_id,date,question,option_selected,region,age_group,gender,response_time_sec
+R1000,2024-05-20,Which product do you prefer?,Product A,South,25-34,Female,52.5
+R1001,2024-08-04,Would you recommend us to a friend?,Definitely Yes,North,18-24,Male,42.9
+R1002,2024-10-14,Would you recommend us to a friend?,Probably Yes,South,45-54,Female,54.7
+R1003,2024-10-28,How often do you use our product?,Daily,East,45-54,Male,67.8
+R1004,2024-06-23,How satisfied are you with our service?,Neutral,East,18-24,Non-Binary,41.5
+R1005,2024-07-13,Which feature is most important to you?,Price,North,25-34,Male,41.5
+R1006,2024-08-23,Which feature is most important to you?,Support,Central,18-24,Non-Binary,68.7
+R1007,2024-11-17,Which product do you prefer?,Product B,Central,55+,Male,56.5
+R1008,2024-01-24,How satisfied are you with our service?,Neutral,South,45-54,Prefer Not to Say,38.0
+R1009,2024-07-13,How satisfied are you with our service?,Dissatisfied,East,25-34,Female,53.1
+R1010,2024-04-17,How satisfied are you with our service?,Satisfied,East,45-54,Female,38.0
+R1011,2024-03-28,Which product do you prefer?,Product B,Central,45-54,Male,38.0
+R1012,2024-11-23,How often do you use our product?,Weekly,Central,25-34,Male,48.6
+R1013,2024-01-17,Which product do you prefer?,Product A,East,25-34,Male,16.3
+R1014,2024-06-10,Would you recommend us to a friend?,Probably No,South,35-44,Male,19.1
+R1015,2024-03-12,How often do you use our product?,Daily,South,45-54,Female,36.6
+R1016,2024-10-25,Would you recommend us to a friend?,Probably Yes,West,25-34,Prefer Not to Say,29.8
+R1017,2024-02-16,How satisfied are you with our service?,Satisfied,North,55+,Male,49.7
+R1018,2024-08-04,How satisfied are you with our service?,Neutral,Central,18-24,Male,31.4
+R1019,2024-10-10,How often do you use our product?,Weekly,North,45-54,Male,23.8
+R1020,2024-11-24,Would you recommend us to a friend?,Not Sure,East,18-24,Male,67.0
+R1021,2024-05-14,How often do you use our product?,Daily,Central,45-54,Female,41.6
+R1022,2024-06-01,Which product do you prefer?,Product C,Central,35-44,Male,46.0
+R1023,2024-09-28,How satisfied are you with our service?,Satisfied,North,35-44,Female,23.6
+R1024,2024-06-06,Which product do you prefer?,Product D,South,18-24,Female,36.8
+R1025,2024-09-05,Which product do you prefer?,Product A,North,55+,Female,46.7
+R1026,2024-08-31,How satisfied are you with our service?,Very Satisfied,Central,18-24,Female,27.7
+R1027,2024-04-18,Would you recommend us to a friend?,Probably Yes,Central,45-54,Female,50.6
+R1028,2024-12-09,Which feature is most important to you?,Price,East,25-34,Female,36.0
+R1029,2024-02-02,Which product do you prefer?,Product A,East,18-24,Female,40.6
+R1030,2024-02-06,Would you recommend us to a friend?,Definitely Yes,North,25-34,Non-Binary,36.0
+R1031,2024-05-01,Which feature is most important to you?,Price,East,35-44,Male,72.8
+R1032,2024-10-19,How satisfied are you with our service?,Neutral,Central,35-44,Female,44.8
+R1033,2024-02-19,How often do you use our product?,Daily,West,25-34,Male,29.1
+R1034,2024-11-26,Which product do you prefer?,Product C,North,18-24,Female,57.3
+R1035,2024-04-07,Which product do you prefer?,Product A,Central,25-34,Male,26.7
+R1036,2024-02-08,Which feature is most important to you?,Quality,West,45-54,Female,48.1
+R1037,2024-10-03,Which product do you prefer?,Product A,North,55+,Non-Binary,15.6
+R1038,2024-09-05,How satisfied are you with our service?,Very Satisfied,West,25-34,Male,25.1
+R1039,2024-01-02,Which product do you prefer?,Product A,West,25-34,Female,48.0
+R1040,2024-12-22,How often do you use our product?,Weekly,Central,35-44,Female,56.1
+R1041,2024-01-30,How satisfied are you with our service?,Very Satisfied,Central,45-54,Male,47.6
+R1042,2024-10-26,Which feature is most important to you?,Price,West,35-44,Female,43.3
+R1043,2024-09-17,How satisfied are you with our service?,Very Satisfied,North,45-54,Male,40.5
+R1044,2024-04-30,Which product do you prefer?,Product C,West,18-24,Female,22.8
+R1045,2024-01-21,How satisfied are you with our service?,Satisfied,Central,18-24,Female,34.2
+R1046,2024-05-13,Would you recommend us to a friend?,Probably Yes,South,35-44,Male,38.1
+R1047,2024-12-09,Which feature is most important to you?,Price,East,25-34,Non-Binary,60.9
+R1048,2024-11-14,Which product do you prefer?,Product A,Central,55+,Male,50.2
+R1049,2024-03-08,How satisfied are you with our service?,Satisfied,East,55+,Female,18.6
+R1050,2024-08-12,Which feature is most important to you?,Price,Central,45-54,Female,49.9
+R1051,2024-10-10,Would you recommend us to a friend?,Definitely Yes,East,55+,Male,39.2
+R1052,2024-02-24,How satisfied are you with our service?,Very Satisfied,Central,18-24,Male,34.8
+R1053,2024-04-14,How satisfied are you with our service?,Neutral,East,35-44,Male,54.2
+R1054,2024-08-04,Which product do you prefer?,Product A,East,18-24,Male,60.5
+R1055,2024-05-14,How satisfied are you with our service?,Satisfied,South,45-54,Female,59.0
+R1056,2024-02-27,How often do you use our product?,Weekly,North,55+,Female,32.4
+R1057,2024-07-08,How satisfied are you with our service?,Satisfied,Central,35-44,Male,40.4
+R1058,2024-01-21,Which product do you prefer?,Product A,East,25-34,Male,50.0
+R1059,2024-10-13,Which product do you prefer?,Product A,West,55+,Female,59.6
+R1060,2024-03-31,How satisfied are you with our service?,Dissatisfied,West,18-24,Female,37.8
+R1061,2024-07-29,Which feature is most important to you?,Support,South,25-34,Female,42.2
+R1062,2024-01-20,Which product do you prefer?,Product B,West,25-34,Female,28.4
+R1063,2024-04-26,How often do you use our product?,Weekly,South,18-24,Male,27.1
+R1064,2024-02-05,Which feature is most important to you?,Price,East,25-34,Female,57.2
+R1065,2024-01-15,Would you recommend us to a friend?,Definitely Yes,North,55+,Male,65.3
+R1066,2024-05-15,Would you recommend us to a friend?,Definitely No,North,18-24,Male,43.9
+R1067,2024-09-18,Which feature is most important to you?,Quality,North,25-34,Female,60.1
+R1068,2024-08-11,Which feature is most important to you?,Price,North,35-44,Female,50.4
+R1069,2024-02-05,How satisfied are you with our service?,Satisfied,East,35-44,Female,35.3
+R1070,2024-06-02,Which product do you prefer?,Product C,Central,25-34,Male,50.4
+R1071,2024-10-10,How often do you use our product?,Monthly,South,25-34,Female,68.1
+R1072,2024-03-30,How often do you use our product?,Monthly,Central,35-44,Male,44.5
+R1073,2024-04-17,Which product do you prefer?,Product A,West,45-54,Female,68.5
+R1074,2024-08-14,Which feature is most important to you?,Quality,South,35-44,Female,5.7
+R1075,2024-05-25,How satisfied are you with our service?,Neutral,Central,35-44,Female,57.3
+R1076,2024-04-30,Which product do you prefer?,Product C,East,25-34,Male,46.3
+R1077,2024-08-31,Which product do you prefer?,Product A,Central,45-54,Male,40.5
+R1078,2024-10-21,How often do you use our product?,Rarely,South,45-54,Male,46.4
+R1079,2024-12-01,How often do you use our product?,Daily,North,55+,Female,15.2
+R1080,2024-04-22,Which product do you prefer?,Product C,South,45-54,Female,41.7
+R1081,2024-05-07,How often do you use our product?,Daily,North,25-34,Female,50.4
+R1082,2024-10-31,Would you recommend us to a friend?,Definitely No,East,55+,Female,67.2
+R1083,2024-09-15,Would you recommend us to a friend?,Not Sure,West,45-54,Female,37.2
+R1084,2024-08-31,How satisfied are you with our service?,Neutral,West,25-34,Male,32.9
+R1085,2024-09-23,Which feature is most important to you?,Support,West,35-44,Male,37.5
+R1086,2024-04-30,Which product do you prefer?,Product C,East,25-34,Female,58.7
+R1087,2024-04-28,Which product do you prefer?,Product A,West,45-54,Female,49.9
+R1088,2024-06-18,Which product do you prefer?,Product B,Central,35-44,Male,37.1
+R1089,2024-10-26,How often do you use our product?,Weekly,North,45-54,Female,52.7
+R1090,2024-06-29,How often do you use our product?,Weekly,East,45-54,Female,46.5
+R1091,2024-10-06,How often do you use our product?,Weekly,Central,55+,Female,59.5
+R1092,2024-01-15,Which feature is most important to you?,Quality,West,25-34,Female,34.5
+R1093,2024-08-27,How often do you use our product?,Monthly,South,55+,Female,40.1
+R1094,2024-12-05,How often do you use our product?,Weekly,North,18-24,Male,39.1
+R1095,2024-05-13,How often do you use our product?,Daily,West,25-34,Female,23.0
+R1096,2024-07-13,Which feature is most important to you?,Support,East,45-54,Female,49.4
+R1097,2024-08-28,Which feature is most important to you?,Support,North,45-54,Male,48.9
+R1098,2024-02-05,Which feature is most important to you?,Price,North,45-54,Non-Binary,45.1
+R1099,2024-11-14,How satisfied are you with our service?,Neutral,South,25-34,Female,41.5
+R1100,2024-04-21,Which product do you prefer?,Product B,West,45-54,Female,23.8
+R1101,2024-02-28,How satisfied are you with our service?,Satisfied,South,55+,Male,38.7
+R1102,2024-10-21,Which product do you prefer?,Product D,West,25-34,Female,39.9
+R1103,2024-11-17,Which product do you prefer?,Product B,South,18-24,Female,33.0
+R1104,2024-10-16,Would you recommend us to a friend?,Not Sure,North,25-34,Male,42.6
+R1105,2024-11-27,Which feature is most important to you?,Price,East,18-24,Male,51.1
+R1106,2024-07-04,How often do you use our product?,Daily,West,45-54,Male,73.3
+R1107,2024-05-18,Would you recommend us to a friend?,Definitely No,Central,45-54,Female,47.6
+R1108,2024-10-30,How often do you use our product?,Weekly,East,25-34,Male,48.9
+R1109,2024-08-18,Which product do you prefer?,Product A,South,45-54,Female,43.9
+R1110,2024-09-10,How often do you use our product?,Weekly,East,25-34,Male,16.2
+R1111,2024-11-01,Which feature is most important to you?,Price,East,35-44,Female,44.6
+R1112,2024-07-27,How satisfied are you with our service?,Very Satisfied,West,35-44,Male,45.9
+R1113,2024-09-08,How often do you use our product?,Monthly,West,45-54,Male,81.9
+R1114,2024-05-04,How satisfied are you with our service?,Satisfied,East,35-44,Male,42.1
+R1115,2024-08-05,Would you recommend us to a friend?,Probably Yes,Central,25-34,Female,49.5
+R1116,2024-04-28,Which feature is most important to you?,Price,North,45-54,Male,44.5
+R1117,2024-12-19,Would you recommend us to a friend?,Definitely No,South,25-34,Female,27.5
+R1118,2024-09-25,Which feature is most important to you?,Support,Central,25-34,Male,62.1
+R1119,2024-07-03,How satisfied are you with our service?,Very Satisfied,South,25-34,Female,56.3
+R1120,2024-01-28,How satisfied are you with our service?,Very Satisfied,Central,25-34,Non-Binary,56.9
+R1121,2024-01-07,How often do you use our product?,Daily,Central,25-34,Female,31.4
+R1122,2024-01-27,Which feature is most important to you?,Price,East,55+,Female,66.0
+R1123,2024-02-07,Which product do you prefer?,Product B,Central,35-44,Male,24.0
+R1124,2024-06-04,How satisfied are you with our service?,Neutral,North,55+,Male,53.8
+R1125,2024-11-12,How often do you use our product?,Monthly,South,45-54,Male,77.9
+R1126,2024-10-28,How often do you use our product?,Weekly,West,25-34,Female,30.1
+R1127,2024-02-20,Would you recommend us to a friend?,Definitely No,South,35-44,Male,36.5
+R1128,2024-03-29,Which product do you prefer?,Product A,Central,18-24,Male,46.5
+R1129,2024-08-28,How often do you use our product?,Monthly,East,18-24,Male,37.4
+R1130,2024-08-20,Which feature is most important to you?,Support,North,45-54,Non-Binary,21.7
+R1131,2024-04-11,Would you recommend us to a friend?,Not Sure,West,18-24,Male,46.0
+R1132,2024-03-13,How satisfied are you with our service?,Dissatisfied,North,18-24,Female,29.1
+R1133,2024-10-18,Would you recommend us to a friend?,Not Sure,East,25-34,Female,52.1
+R1134,2024-05-19,Which feature is most important to you?,Quality,Central,35-44,Male,31.2
+R1135,2024-08-09,Would you recommend us to a friend?,Definitely Yes,East,35-44,Male,68.2
+R1136,2024-10-21,How satisfied are you with our service?,Very Dissatisfied,Central,55+,Prefer Not to Say,33.3
+R1137,2024-03-30,Which feature is most important to you?,Quality,West,35-44,Male,40.2
+R1138,2024-10-26,Which feature is most important to you?,Price,West,35-44,Female,57.2
+R1139,2024-07-28,Which product do you prefer?,Product B,East,25-34,Male,26.5
+R1140,2024-12-21,How satisfied are you with our service?,Satisfied,West,25-34,Non-Binary,48.4
+R1141,2024-02-15,Would you recommend us to a friend?,Definitely Yes,East,25-34,Male,64.6
+R1142,2024-01-01,How often do you use our product?,Rarely,Central,35-44,Male,20.9
+R1143,2024-09-12,Would you recommend us to a friend?,Probably Yes,West,45-54,Male,47.8
+R1144,2024-05-27,Would you recommend us to a friend?,Definitely Yes,West,55+,Female,48.9
+R1145,2024-11-07,Which product do you prefer?,Product D,South,45-54,Male,56.7
+R1146,2024-02-17,Which product do you prefer?,Product B,South,55+,Non-Binary,26.4
+R1147,2024-11-27,How often do you use our product?,Rarely,South,35-44,Female,25.2
+R1148,2024-07-31,Would you recommend us to a friend?,Not Sure,West,55+,Male,52.8
+R1149,2024-04-07,Would you recommend us to a friend?,Definitely Yes,Central,35-44,Female,49.5
+R1150,2024-07-31,Which product do you prefer?,Product A,East,55+,Female,48.8
+R1151,2024-06-01,Which product do you prefer?,Product A,Central,35-44,Female,50.2
+R1152,2024-09-04,How satisfied are you with our service?,Satisfied,East,25-34,Female,34.8
+R1153,2024-06-13,How often do you use our product?,Weekly,South,55+,Male,48.5
+R1154,2024-07-29,How often do you use our product?,Daily,North,25-34,Female,49.4
+R1155,2024-12-05,How often do you use our product?,Weekly,South,35-44,Male,34.3
+R1156,2024-06-18,Would you recommend us to a friend?,Definitely No,North,55+,Male,73.0
+R1157,2024-01-08,Would you recommend us to a friend?,Probably No,South,25-34,Female,52.1
+R1158,2024-05-15,How satisfied are you with our service?,Very Satisfied,East,35-44,Male,27.1
+R1159,2024-12-11,Which product do you prefer?,Product C,Central,25-34,Male,54.8
+R1160,2024-01-19,How often do you use our product?,Rarely,Central,18-24,Female,30.4
+R1161,2024-02-16,Which feature is most important to you?,Speed,West,55+,Female,56.8
+R1162,2024-12-21,Which product do you prefer?,Product B,East,55+,Male,62.4
+R1163,2024-07-10,Which product do you prefer?,Product A,West,18-24,Female,32.7
+R1164,2024-04-02,Would you recommend us to a friend?,Not Sure,South,18-24,Female,59.5
+R1165,2024-05-03,How often do you use our product?,Monthly,West,55+,Male,51.2
+R1166,2024-08-23,How often do you use our product?,Monthly,East,35-44,Female,57.3
+R1167,2024-12-12,How often do you use our product?,Rarely,Central,18-24,Male,73.5
+R1168,2024-06-02,Which feature is most important to you?,Speed,West,45-54,Female,41.3
+R1169,2024-07-15,Which feature is most important to you?,Price,West,18-24,Male,33.7
+R1170,2024-12-24,Which feature is most important to you?,Quality,East,18-24,Female,31.7
+R1171,2024-10-16,How often do you use our product?,Weekly,North,55+,Female,32.8
+R1172,2024-04-27,Which feature is most important to you?,Support,Central,45-54,Male,43.8
+R1173,2024-12-13,How satisfied are you with our service?,Satisfied,South,35-44,Non-Binary,50.1
+R1174,2024-08-13,Which product do you prefer?,Product A,North,35-44,Female,49.2
+R1175,2024-06-16,Which product do you prefer?,Product D,West,18-24,Male,57.4
+R1176,2024-07-06,Would you recommend us to a friend?,Probably No,Central,35-44,Male,45.2
+R1177,2024-09-03,How satisfied are you with our service?,Very Satisfied,East,45-54,Male,66.8
+R1178,2024-02-08,Which product do you prefer?,Product B,South,45-54,Male,41.0
+R1179,2024-10-12,How often do you use our product?,Rarely,East,18-24,Male,85.8
+R1180,2024-08-20,Which feature is most important to you?,Quality,East,35-44,Female,54.4
+R1181,2024-11-22,Would you recommend us to a friend?,Probably Yes,East,18-24,Male,32.1
+R1182,2024-10-14,Which product do you prefer?,Product B,East,55+,Male,28.9
+R1183,2024-08-25,Which product do you prefer?,Product B,East,35-44,Male,52.2
+R1184,2024-06-04,Which product do you prefer?,Product D,West,18-24,Male,41.6
+R1185,2024-08-20,Would you recommend us to a friend?,Definitely Yes,East,35-44,Female,55.7
+R1186,2024-03-20,Would you recommend us to a friend?,Probably Yes,West,35-44,Female,52.1
+R1187,2024-05-23,Would you recommend us to a friend?,Probably Yes,North,45-54,Male,43.9
+R1188,2024-07-04,How often do you use our product?,Rarely,North,55+,Male,32.3
+R1189,2024-05-21,Which feature is most important to you?,Price,South,55+,Non-Binary,22.3
+R1190,2024-04-18,How often do you use our product?,Daily,Central,55+,Male,38.3
+R1191,2024-03-05,Which feature is most important to you?,Price,Central,25-34,Female,57.8
+R1192,2024-04-20,Would you recommend us to a friend?,Definitely Yes,South,25-34,Male,48.2
+R1193,2024-03-15,Would you recommend us to a friend?,Definitely Yes,South,35-44,Female,26.3
+R1194,2024-01-14,Which product do you prefer?,Product C,South,18-24,Female,47.6
+R1195,2024-01-09,How satisfied are you with our service?,Satisfied,South,25-34,Male,50.8
+R1196,2024-02-02,How often do you use our product?,Weekly,West,25-34,Male,31.7
+R1197,2024-09-14,Would you recommend us to a friend?,Definitely Yes,South,55+,Male,47.3
+R1198,2024-11-25,Would you recommend us to a friend?,Definitely Yes,North,18-24,Female,45.9
+R1199,2024-02-25,How often do you use our product?,Weekly,West,45-54,Male,27.9
+R1200,2024-03-16,Which product do you prefer?,Product A,North,18-24,Female,50.4
+R1201,2024-06-15,Would you recommend us to a friend?,Probably Yes,West,55+,Female,53.4
+R1202,2024-08-08,How often do you use our product?,Weekly,North,45-54,Male,61.2
+R1203,2024-04-20,Would you recommend us to a friend?,Not Sure,West,25-34,Male,60.8
+R1204,2024-07-23,Which feature is most important to you?,Support,West,45-54,Male,24.3
+R1205,2024-07-10,Which feature is most important to you?,Quality,South,45-54,Female,30.9
+R1206,2024-02-17,Which product do you prefer?,Product C,West,18-24,Female,52.7
+R1207,2024-10-27,How satisfied are you with our service?,Satisfied,Central,35-44,Female,52.7
+R1208,2024-12-06,How often do you use our product?,Weekly,West,55+,Female,52.7
+R1209,2024-06-29,Which feature is most important to you?,Quality,North,35-44,Male,102.8
+R1210,2024-02-25,How often do you use our product?,Daily,East,45-54,Male,53.6
+R1211,2024-08-07,Which feature is most important to you?,Quality,Central,55+,Female,62.0
+R1212,2024-10-12,Would you recommend us to a friend?,Not Sure,North,35-44,Female,59.3
+R1213,2024-05-19,Which feature is most important to you?,Price,East,55+,Male,54.8
+R1214,2024-10-16,How satisfied are you with our service?,Dissatisfied,West,18-24,Female,40.3
+R1215,2024-09-28,Which product do you prefer?,Product A,South,25-34,Female,56.4
+R1216,2024-06-15,How satisfied are you with our service?,Satisfied,Central,35-44,Female,33.4
+R1217,2024-11-12,How satisfied are you with our service?,Very Satisfied,North,35-44,Male,41.4
+R1218,2024-08-14,How often do you use our product?,Weekly,West,25-34,Female,37.7
+R1219,2024-02-26,Which product do you prefer?,Product A,East,35-44,Female,46.2
+R1220,2024-01-24,Would you recommend us to a friend?,Not Sure,South,25-34,Female,79.7
+R1221,2024-04-18,Which product do you prefer?,Product A,South,45-54,Male,17.0
+R1222,2024-08-08,Which product do you prefer?,Product A,South,18-24,Female,55.3
+R1223,2024-12-08,How satisfied are you with our service?,Satisfied,East,18-24,Female,20.8
+R1224,2024-08-23,Which product do you prefer?,Product B,North,55+,Female,37.9
+R1225,2024-11-23,Would you recommend us to a friend?,Probably Yes,West,25-34,Male,61.3
+R1226,2024-11-12,Which feature is most important to you?,Price,West,45-54,Non-Binary,46.0
+R1227,2024-02-24,Which product do you prefer?,Product B,South,25-34,Male,28.8
+R1228,2024-06-07,Which product do you prefer?,Product B,East,25-34,Female,34.3
+R1229,2024-02-28,Which product do you prefer?,Product B,Central,35-44,Non-Binary,55.2
+R1230,2024-11-26,Which feature is most important to you?,Price,South,25-34,Male,34.0
+R1231,2024-03-19,How satisfied are you with our service?,Very Satisfied,North,18-24,Female,48.2
+R1232,2024-10-15,How often do you use our product?,Weekly,Central,25-34,Non-Binary,45.7
+R1233,2024-11-15,Would you recommend us to a friend?,Probably Yes,East,55+,Female,35.2
+R1234,2024-08-28,How satisfied are you with our service?,Satisfied,West,35-44,Female,77.2
+R1235,2024-09-16,Would you recommend us to a friend?,Definitely Yes,North,25-34,Female,54.5
+R1236,2024-05-26,Which product do you prefer?,Product A,North,35-44,Prefer Not to Say,14.6
+R1237,2024-09-16,Which product do you prefer?,Product B,West,35-44,Female,47.8
+R1238,2024-10-19,Which product do you prefer?,Product B,South,25-34,Female,35.1
+R1239,2024-08-18,How satisfied are you with our service?,Very Dissatisfied,North,45-54,Female,57.8
+R1240,2024-03-29,Which product do you prefer?,Product B,North,25-34,Male,33.1
+R1241,2024-11-08,How often do you use our product?,Weekly,South,25-34,Non-Binary,43.3
+R1242,2024-06-22,How often do you use our product?,Weekly,Central,18-24,Female,52.6
+R1243,2024-02-18,Which feature is most important to you?,Price,Central,35-44,Male,58.0
+R1244,2024-06-19,Would you recommend us to a friend?,Probably No,North,35-44,Male,27.0
+R1245,2024-12-01,Which feature is most important to you?,Price,West,18-24,Female,40.0
+R1246,2024-07-11,Which product do you prefer?,Product A,East,45-54,Female,37.9
+R1247,2024-12-09,Would you recommend us to a friend?,Definitely Yes,West,35-44,Male,35.2
+R1248,2024-04-19,Which feature is most important to you?,Price,East,55+,Female,71.5
+R1249,2024-03-20,How satisfied are you with our service?,Very Dissatisfied,North,25-34,Female,51.1
+R1250,2024-09-26,Would you recommend us to a friend?,Not Sure,North,35-44,Female,26.1
+R1251,2024-07-11,Would you recommend us to a friend?,Definitely Yes,South,18-24,Female,58.8
+R1252,2024-03-25,Would you recommend us to a friend?,Not Sure,West,18-24,Male,76.8
+R1253,2024-11-08,How satisfied are you with our service?,Very Dissatisfied,East,45-54,Female,60.5
+R1254,2024-06-07,How satisfied are you with our service?,Satisfied,West,55+,Male,22.2
+R1255,2024-08-24,Would you recommend us to a friend?,Definitely No,East,45-54,Female,37.7
+R1256,2024-04-12,How often do you use our product?,Rarely,Central,18-24,Male,64.0
+R1257,2024-10-10,How often do you use our product?,Rarely,North,45-54,Female,34.4
+R1258,2024-03-23,Which product do you prefer?,Product A,East,25-34,Female,51.7
+R1259,2024-04-23,How often do you use our product?,Daily,West,55+,Non-Binary,56.6
+R1260,2024-09-14,How often do you use our product?,Daily,East,25-34,Prefer Not to Say,31.1
+R1261,2024-06-12,Which feature is most important to you?,Price,North,45-54,Female,44.1
+R1262,2024-05-26,How satisfied are you with our service?,Very Satisfied,West,45-54,Male,-3.6
+R1263,2024-01-03,How often do you use our product?,Weekly,North,18-24,Male,29.6
+R1264,2024-11-07,How satisfied are you with our service?,Satisfied,Central,25-34,Female,41.2
+R1265,2024-01-25,How satisfied are you with our service?,Satisfied,South,25-34,Female,26.3
+R1266,2024-09-12,How often do you use our product?,Daily,Central,35-44,Female,69.5
+R1267,2024-03-14,Would you recommend us to a friend?,Definitely Yes,East,25-34,Female,23.5
+R1268,2024-04-05,How satisfied are you with our service?,Satisfied,North,35-44,Male,38.4
+R1269,2024-09-16,Would you recommend us to a friend?,Probably Yes,Central,18-24,Female,47.0
+R1270,2024-07-10,Which product do you prefer?,Product B,East,45-54,Male,66.6
+R1271,2024-12-02,Which product do you prefer?,Product A,North,45-54,Female,23.5
+R1272,2024-06-29,Which feature is most important to you?,Price,Central,25-34,Female,62.4
+R1273,2024-09-02,How often do you use our product?,Rarely,South,45-54,Male,45.2
+R1274,2024-04-13,How often do you use our product?,Daily,North,45-54,Female,30.3
+R1275,2024-09-20,Which feature is most important to you?,Speed,West,55+,Female,51.9
+R1276,2024-11-27,Which feature is most important to you?,Price,South,25-34,Female,48.0
+R1277,2024-06-18,Which product do you prefer?,Product C,East,18-24,Male,36.0
+R1278,2024-07-16,How often do you use our product?,Monthly,East,55+,Female,46.0
+R1279,2024-09-22,How often do you use our product?,Weekly,East,45-54,Female,39.2
+R1280,2024-04-02,Which product do you prefer?,Product B,Central,25-34,Male,46.7
+R1281,2024-06-05,Which feature is most important to you?,Quality,West,35-44,Male,54.9
+R1282,2024-01-22,How often do you use our product?,Weekly,East,35-44,Male,68.8
+R1283,2024-11-22,Which product do you prefer?,Product A,West,25-34,Female,26.4
+R1284,2024-03-14,How satisfied are you with our service?,Very Dissatisfied,Central,35-44,Male,77.0
+R1285,2024-11-26,How satisfied are you with our service?,Very Satisfied,East,25-34,Non-Binary,15.7
+R1286,2024-12-13,Which product do you prefer?,Product B,West,55+,Male,42.7
+R1287,2024-09-28,Which product do you prefer?,Product B,East,25-34,Female,53.8
+R1288,2024-01-14,How satisfied are you with our service?,Very Dissatisfied,South,35-44,Male,49.2
+R1289,2024-05-13,Would you recommend us to a friend?,Definitely Yes,West,25-34,Female,35.7
+R1290,2024-03-10,How often do you use our product?,Daily,North,25-34,Female,41.9
+R1291,2024-12-15,How often do you use our product?,Rarely,East,35-44,Female,37.6
+R1292,2024-06-02,Would you recommend us to a friend?,Probably Yes,South,45-54,Non-Binary,36.2
+R1293,2024-09-17,How satisfied are you with our service?,Neutral,South,18-24,Male,57.7
+R1294,2024-09-09,How satisfied are you with our service?,Very Satisfied,North,25-34,Female,50.4
+R1295,2024-10-09,How often do you use our product?,Monthly,South,35-44,Male,34.6
+R1296,2024-09-02,Which feature is most important to you?,Price,Central,25-34,Male,58.5
+R1297,2024-06-11,Would you recommend us to a friend?,Definitely Yes,North,25-34,Female,49.6
+R1298,2024-10-09,Which feature is most important to you?,Price,Central,25-34,Prefer Not to Say,57.2
+R1299,2024-01-29,How often do you use our product?,Weekly,North,35-44,Male,54.4
+R1300,2024-12-29,How satisfied are you with our service?,Satisfied,South,25-34,Non-Binary,32.6
+R1301,2024-05-08,Which feature is most important to you?,Support,South,35-44,Female,36.6
+R1302,2024-11-10,How satisfied are you with our service?,Satisfied,Central,18-24,Female,56.2
+R1303,2024-03-19,Would you recommend us to a friend?,Definitely No,South,35-44,Female,54.2
+R1304,2024-10-15,Would you recommend us to a friend?,Definitely Yes,North,45-54,Male,44.7
+R1305,2024-10-22,Which product do you prefer?,Product D,East,35-44,Female,46.8
+R1306,2024-01-16,How often do you use our product?,Monthly,West,55+,Female,64.2
+R1307,2024-12-16,Which feature is most important to you?,Quality,West,25-34,Male,36.1
+R1308,2024-07-31,Which product do you prefer?,Product A,West,35-44,Male,53.2
+R1309,2024-06-12,How satisfied are you with our service?,Satisfied,East,55+,Male,42.0
+R1310,2024-02-24,Which feature is most important to you?,Quality,East,25-34,Male,41.7
+R1311,2024-02-19,How often do you use our product?,Daily,North,25-34,Male,61.5
+R1312,2024-03-22,Would you recommend us to a friend?,Probably Yes,East,55+,Female,57.4
+R1313,2024-09-12,How satisfied are you with our service?,Neutral,Central,35-44,Female,57.2
+R1314,2024-07-20,How often do you use our product?,Daily,Central,25-34,Male,64.6
+R1315,2024-01-26,Would you recommend us to a friend?,Probably Yes,East,35-44,Female,45.3
+R1316,2024-01-05,How often do you use our product?,Weekly,North,25-34,Female,55.2
+R1317,2024-07-06,Which feature is most important to you?,Support,North,25-34,Female,40.3
+R1318,2024-05-27,How satisfied are you with our service?,Satisfied,North,25-34,Female,49.9
+R1319,2024-11-15,Would you recommend us to a friend?,Definitely Yes,Central,18-24,Prefer Not to Say,43.0
+R1320,2024-06-22,How often do you use our product?,Weekly,Central,55+,Female,46.5
+R1321,2024-07-24,How satisfied are you with our service?,Satisfied,Central,18-24,Male,53.9
+R1322,2024-09-22,Which feature is most important to you?,Support,West,18-24,Female,32.7
+R1323,2024-11-09,How satisfied are you with our service?,Satisfied,East,18-24,Prefer Not to Say,76.4
+R1324,2024-09-16,Which feature is most important to you?,Quality,Central,35-44,Female,29.9
+R1325,2024-01-09,Which feature is most important to you?,Quality,East,25-34,Male,26.8
+R1326,2024-12-18,How often do you use our product?,Weekly,North,35-44,Male,62.4
+R1327,2024-01-27,Would you recommend us to a friend?,Probably Yes,Central,35-44,Female,56.9
+R1328,2024-07-13,Would you recommend us to a friend?,Not Sure,South,45-54,Male,54.4
+R1329,2024-02-26,Would you recommend us to a friend?,Definitely No,South,18-24,Male,54.4
+R1330,2024-04-14,How satisfied are you with our service?,Satisfied,West,35-44,Female,44.8
+R1331,2024-02-01,How often do you use our product?,Rarely,South,35-44,Female,31.5
+R1332,2024-06-09,How often do you use our product?,Weekly,South,25-34,Female,46.1
+R1333,2024-12-14,Would you recommend us to a friend?,Probably Yes,East,35-44,Male,34.8
+R1334,2024-06-01,How satisfied are you with our service?,Very Satisfied,South,55+,Prefer Not to Say,59.6
+R1335,2024-12-19,Which feature is most important to you?,Support,West,25-34,Male,42.8
+R1336,2024-10-20,Which feature is most important to you?,Price,Central,25-34,Prefer Not to Say,32.6
+R1337,2024-03-15,Which feature is most important to you?,Speed,East,18-24,Non-Binary,40.2
+R1338,2024-08-14,Which product do you prefer?,Product A,East,45-54,Male,51.2
+R1339,2024-10-14,Would you recommend us to a friend?,Definitely Yes,East,18-24,Female,36.5
+R1340,2024-01-26,Would you recommend us to a friend?,Definitely Yes,Central,25-34,Male,32.7
+R1341,2024-08-29,Which product do you prefer?,Product B,North,45-54,Male,48.7
+R1342,2024-03-21,Would you recommend us to a friend?,Definitely No,West,35-44,Female,48.7
+R1343,2024-04-12,How often do you use our product?,Weekly,East,25-34,Female,37.4
+R1344,2024-04-28,Which product do you prefer?,Product B,Central,45-54,Female,37.9
+R1345,2024-03-30,Which product do you prefer?,Product D,West,55+,Male,48.5
+R1346,2024-07-22,Which product do you prefer?,Product D,West,25-34,Female,23.3
+R1347,2024-01-05,Which feature is most important to you?,Support,East,35-44,Male,23.9
+R1348,2024-11-24,Which feature is most important to you?,Price,Central,35-44,Female,34.2
+R1349,2024-08-27,How satisfied are you with our service?,Dissatisfied,East,25-34,Male,41.8
+R1350,2024-11-27,How satisfied are you with our service?,Neutral,East,45-54,Male,49.7
+R1351,2024-10-17,Which feature is most important to you?,Support,South,18-24,Female,67.1
+R1352,2024-09-20,How often do you use our product?,Monthly,East,18-24,Female,57.9
+R1353,2024-09-01,How satisfied are you with our service?,Very Dissatisfied,East,55+,Male,42.6
+R1354,2024-05-16,How often do you use our product?,Daily,East,25-34,Female,44.7
+R1355,2024-07-03,Which product do you prefer?,Product A,South,18-24,Male,30.0
+R1356,2024-12-17,Which feature is most important to you?,Price,Central,55+,Female,44.7
+R1357,2024-11-23,Which feature is most important to you?,Quality,East,25-34,Male,40.7
+R1358,2024-08-20,How satisfied are you with our service?,Satisfied,Central,25-34,Female,49.8
+R1359,2024-12-06,How often do you use our product?,Monthly,South,45-54,Female,32.6
+R1360,2024-02-11,Would you recommend us to a friend?,Probably No,Central,25-34,Female,52.8
+R1361,2024-02-27,Which product do you prefer?,Product D,North,45-54,Non-Binary,68.0
+R1362,2024-03-17,How satisfied are you with our service?,Satisfied,South,25-34,Female,43.4
+R1363,2024-10-25,Which product do you prefer?,Product C,West,18-24,Female,51.0
+R1364,2024-09-19,Which product do you prefer?,Product B,West,25-34,Male,55.4
+R1365,2024-06-06,How often do you use our product?,Monthly,North,25-34,Female,39.0
+R1366,2024-01-24,How satisfied are you with our service?,Satisfied,West,25-34,Male,48.4
+R1367,2024-02-05,Which product do you prefer?,Product D,West,18-24,Male,45.2
+R1368,2024-11-26,How satisfied are you with our service?,Neutral,West,25-34,Female,46.5
+R1369,2024-07-12,How often do you use our product?,Rarely,West,18-24,Prefer Not to Say,33.4
+R1370,2024-06-27,Would you recommend us to a friend?,Definitely Yes,North,18-24,Female,45.4
+R1371,2024-04-24,Would you recommend us to a friend?,Definitely Yes,North,45-54,Prefer Not to Say,52.5
+R1372,2024-10-05,How often do you use our product?,Monthly,West,35-44,Female,66.8
+R1373,2024-03-20,How satisfied are you with our service?,Satisfied,East,25-34,Female,59.4
+R1374,2024-12-04,Which product do you prefer?,Product A,West,35-44,Non-Binary,77.3
+R1375,2024-02-04,Which product do you prefer?,Product A,North,35-44,Male,33.5
+R1376,2024-01-23,Which product do you prefer?,Product A,West,25-34,Female,58.1
+R1377,2024-05-28,Which product do you prefer?,Product A,South,45-54,Female,47.8
+R1378,2024-12-10,Which feature is most important to you?,Quality,East,25-34,Female,77.8
+R1379,2024-06-02,Would you recommend us to a friend?,Definitely Yes,East,18-24,Non-Binary,32.9
+R1380,2024-08-06,How satisfied are you with our service?,Satisfied,Central,35-44,Prefer Not to Say,32.4
+R1381,2024-06-12,How often do you use our product?,Monthly,West,25-34,Male,36.0
+R1382,2024-08-30,How satisfied are you with our service?,Neutral,South,45-54,Male,13.1
+R1383,2024-01-30,How satisfied are you with our service?,Neutral,Central,25-34,Male,37.1
+R1384,2024-05-04,Would you recommend us to a friend?,Definitely Yes,East,25-34,Female,33.6
+R1385,2024-02-17,How often do you use our product?,Monthly,Central,45-54,Male,47.3
+R1386,2024-11-05,Which feature is most important to you?,Price,Central,18-24,Male,50.1
+R1387,2024-10-13,Would you recommend us to a friend?,Not Sure,South,35-44,Female,73.1
+R1388,2024-01-08,Which feature is most important to you?,Price,South,55+,Prefer Not to Say,59.3
+R1389,2024-09-02,Which product do you prefer?,Product C,South,45-54,Female,36.3
+R1390,2024-10-09,How often do you use our product?,Rarely,East,45-54,Male,31.5
+R1391,2024-06-06,Would you recommend us to a friend?,Probably Yes,East,25-34,Female,52.4
+R1392,2024-08-28,How often do you use our product?,Daily,East,55+,Male,25.2
+R1393,2024-04-23,How often do you use our product?,Daily,South,18-24,Female,72.5
+R1394,2024-08-01,Would you recommend us to a friend?,Probably Yes,East,18-24,Male,62.7
+R1395,2024-05-05,How often do you use our product?,Weekly,West,35-44,Non-Binary,38.0
+R1396,2024-09-07,Which feature is most important to you?,Price,West,35-44,Female,19.3
+R1397,2024-10-06,Which feature is most important to you?,Price,West,25-34,Female,65.3
+R1398,2024-02-08,Which product do you prefer?,Product B,North,45-54,Male,43.3
+R1399,2024-03-18,How satisfied are you with our service?,Very Satisfied,North,25-34,Female,63.6
+R1400,2024-12-07,Which product do you prefer?,Product B,Central,55+,Female,21.1
+R1401,2024-10-09,Which product do you prefer?,Product A,West,18-24,Female,36.0
+R1402,2024-05-26,Which feature is most important to you?,Quality,North,35-44,Female,45.1
+R1403,2024-04-01,How often do you use our product?,Monthly,North,55+,Female,45.7
+R1404,2024-09-26,How satisfied are you with our service?,Very Satisfied,East,45-54,Male,38.2
+R1405,2024-07-26,How often do you use our product?,Daily,West,35-44,Prefer Not to Say,54.3
+R1406,2024-02-11,How satisfied are you with our service?,Very Satisfied,North,18-24,Male,29.0
+R1407,2024-11-22,Would you recommend us to a friend?,Probably Yes,North,45-54,Male,42.9
+R1408,2024-06-18,How often do you use our product?,Monthly,Central,55+,Prefer Not to Say,46.8
+R1409,2024-04-27,Would you recommend us to a friend?,Probably No,South,55+,Female,52.7
+R1410,2024-01-24,Would you recommend us to a friend?,Probably Yes,North,45-54,Male,55.7
+R1411,2024-01-17,Would you recommend us to a friend?,Probably Yes,South,55+,Male,28.1
+R1412,2024-12-30,How satisfied are you with our service?,Satisfied,West,55+,Male,22.0
+R1413,2024-07-18,Would you recommend us to a friend?,Definitely Yes,Central,25-34,Female,64.2
+R1414,2024-12-18,How satisfied are you with our service?,Neutral,North,35-44,Prefer Not to Say,50.0
+R1415,2024-04-28,Which product do you prefer?,Product A,North,25-34,Female,33.8
+R1416,2024-06-16,Would you recommend us to a friend?,Probably Yes,North,35-44,Female,68.3
+R1417,2024-07-01,How often do you use our product?,Weekly,Central,55+,Male,46.7
+R1418,2024-02-13,Would you recommend us to a friend?,Not Sure,Central,25-34,Male,62.7
+R1419,2024-03-19,Which product do you prefer?,Product A,West,45-54,Female,46.0
+R1420,2024-02-24,How often do you use our product?,Weekly,North,18-24,Male,75.9
+R1421,2024-02-22,Which feature is most important to you?,Support,South,18-24,Male,71.3
+R1422,2024-07-27,Would you recommend us to a friend?,Probably Yes,North,18-24,Male,41.3
+R1423,2024-06-15,Which product do you prefer?,Product B,West,18-24,Male,59.6
+R1424,2024-10-13,Which product do you prefer?,Product C,South,35-44,Male,54.7
+R1425,2024-05-17,How often do you use our product?,Daily,East,25-34,Male,65.5
+R1426,2024-08-03,How satisfied are you with our service?,Satisfied,East,35-44,Male,30.5
+R1427,2024-11-16,Which feature is most important to you?,Speed,West,35-44,Male,55.3
+R1428,2024-01-04,Which product do you prefer?,Product A,West,25-34,Female,60.9
+R1429,2024-08-08,Which feature is most important to you?,Quality,Central,18-24,Male,18.6
+R1430,2024-03-31,How satisfied are you with our service?,Satisfied,West,55+,Male,27.3
+R1431,2024-05-04,How often do you use our product?,Rarely,East,25-34,Female,14.4
+R1432,2024-10-15,How often do you use our product?,Weekly,South,35-44,Female,41.0
+R1433,2024-08-24,Would you recommend us to a friend?,Definitely Yes,South,25-34,Male,55.8
+R1434,2024-07-28,Which product do you prefer?,Product C,West,18-24,Male,67.5
+R1435,2024-08-04,Which feature is most important to you?,Quality,West,18-24,Prefer Not to Say,46.1
+R1436,2024-09-30,How often do you use our product?,Weekly,Central,55+,Female,69.4
+R1437,2024-07-03,How often do you use our product?,Weekly,Central,35-44,Non-Binary,24.3
+R1438,2024-12-02,Which product do you prefer?,Product C,East,18-24,Female,19.4
+R1439,2024-12-12,Would you recommend us to a friend?,Definitely No,West,55+,Male,44.2
+R1440,2024-02-20,How often do you use our product?,Daily,East,25-34,Female,50.8
+R1441,2024-10-21,Would you recommend us to a friend?,Probably Yes,South,25-34,Male,44.5
+R1442,2024-03-18,Would you recommend us to a friend?,Not Sure,East,55+,Female,14.0
+R1443,2024-02-13,Which feature is most important to you?,Quality,North,45-54,Female,43.7
+R1444,2024-08-21,Which feature is most important to you?,Price,South,35-44,Male,25.4
+R1445,2024-12-22,Which product do you prefer?,Product B,West,25-34,Male,55.0
+R1446,2024-06-24,Which product do you prefer?,Product A,North,35-44,Male,50.5
+R1447,2024-10-09,How satisfied are you with our service?,Satisfied,South,25-34,Male,30.9
+R1448,2024-07-26,How often do you use our product?,Daily,South,25-34,Female,37.3
+R1449,2024-11-10,How often do you use our product?,Daily,South,25-34,Male,29.1
+R1450,2024-04-15,Which product do you prefer?,Product C,East,45-54,Female,44.1
+R1451,2024-10-01,Which product do you prefer?,Product B,South,25-34,Male,59.3
+R1452,2024-09-07,Which product do you prefer?,Product A,Central,55+,Male,30.2
+R1453,2024-10-27,How often do you use our product?,Monthly,North,25-34,Female,52.6
+R1454,2024-12-10,Would you recommend us to a friend?,Definitely Yes,East,55+,Female,37.0
+R1455,2024-05-02,How satisfied are you with our service?,Satisfied,East,18-24,Male,33.1
+R1456,2024-08-02,How satisfied are you with our service?,Satisfied,Central,18-24,Male,43.4
+R1457,2024-10-02,How satisfied are you with our service?,Satisfied,South,35-44,Female,29.5
+R1458,2024-08-18,How satisfied are you with our service?,Very Satisfied,Central,18-24,Male,36.7
+R1459,2024-04-09,Which product do you prefer?,Product B,West,55+,Female,27.0
+R1460,2024-09-08,How often do you use our product?,Weekly,West,45-54,Male,74.5
+R1461,2024-01-16,How satisfied are you with our service?,Very Satisfied,South,25-34,Male,45.5
+R1462,2024-08-22,Would you recommend us to a friend?,Definitely Yes,Central,45-54,Female,34.5
+R1463,2024-10-20,Would you recommend us to a friend?,Probably Yes,North,25-34,Female,48.2
+R1464,2024-01-22,Which feature is most important to you?,Quality,West,35-44,Prefer Not to Say,43.3
+R1465,2024-11-30,Which product do you prefer?,Product C,South,25-34,Prefer Not to Say,41.7
+R1466,2024-02-14,How often do you use our product?,Weekly,West,55+,Male,54.2
+R1467,2024-10-28,How satisfied are you with our service?,Very Satisfied,East,55+,Female,56.4
+R1468,2024-03-12,How often do you use our product?,Daily,South,45-54,Female,37.0
+R1469,2024-05-23,Would you recommend us to a friend?,Probably Yes,Central,35-44,Male,36.4
+R1470,2024-05-16,Which feature is most important to you?,Price,Central,55+,Female,40.9
+R1471,2024-07-29,Which product do you prefer?,Product A,North,55+,Female,10.5
+R1472,2024-03-08,How satisfied are you with our service?,Neutral,South,18-24,Male,22.3
+R1473,2024-12-12,How satisfied are you with our service?,Neutral,West,35-44,Female,65.5
+R1474,2024-07-11,Which feature is most important to you?,Quality,West,18-24,Female,69.7
+R1475,2024-05-22,Which product do you prefer?,Product B,East,25-34,Female,41.3
+R1476,2024-02-17,Would you recommend us to a friend?,Definitely Yes,West,35-44,Female,53.6
+R1477,2024-07-22,Which product do you prefer?,Product C,South,55+,Female,49.7
+R1478,2024-05-25,How often do you use our product?,Weekly,East,35-44,Male,91.2
+R1479,2024-12-15,How often do you use our product?,Monthly,North,18-24,Female,61.8
+R1480,2024-03-21,How often do you use our product?,Daily,West,25-34,Prefer Not to Say,43.1
+R1481,2024-12-18,How often do you use our product?,Daily,South,55+,Male,30.7
+R1482,2024-07-03,Which feature is most important to you?,Price,East,18-24,Female,20.9
+R1483,2024-11-16,How satisfied are you with our service?,Very Satisfied,East,45-54,Female,48.1
+R1484,2024-12-26,How often do you use our product?,Monthly,North,18-24,Female,33.7
+R1485,2024-09-22,How satisfied are you with our service?,Satisfied,West,18-24,Female,23.7
+R1486,2024-08-04,Which product do you prefer?,Product D,South,35-44,Male,35.3
+R1487,2024-02-22,Which product do you prefer?,Product C,North,25-34,Female,28.8
+R1488,2024-03-09,How satisfied are you with our service?,Satisfied,South,18-24,Female,70.3
+R1489,2024-08-13,Would you recommend us to a friend?,Not Sure,East,45-54,Female,58.2
+R1490,2024-11-11,How satisfied are you with our service?,Dissatisfied,West,45-54,Male,44.9
+R1491,2024-03-04,Which product do you prefer?,Product A,Central,45-54,Male,67.2
+R1492,2024-03-12,How often do you use our product?,Weekly,South,25-34,Male,46.2
+R1493,2024-11-07,Would you recommend us to a friend?,Probably Yes,East,45-54,Female,32.1
+R1494,2024-11-06,Which feature is most important to you?,Price,Central,25-34,Male,67.8
+R1495,2024-05-02,Which product do you prefer?,Product C,West,25-34,Male,53.1
+R1496,2024-01-07,Would you recommend us to a friend?,Definitely Yes,East,55+,Male,29.4
+R1497,2024-10-06,Would you recommend us to a friend?,Probably Yes,South,45-54,Non-Binary,42.1
+R1498,2024-02-04,Which product do you prefer?,Product A,North,25-34,Male,31.9
+R1499,2024-07-22,Which product do you prefer?,Product D,Central,25-34,Female,24.3
